@@ -1,0 +1,3 @@
+Global Count (from main): 100
+Global Count (from showScope): 100
+Local Count (from showScope): 50
